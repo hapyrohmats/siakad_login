@@ -2,7 +2,7 @@
 $host = "localhost";
 $user = "root";
 $pass = "";
-$db   = "db_siakad";
+$db   = "db_siakad_login";
 
 $conn = mysqli_connect($host, $user, $pass, $db);
 
